@@ -1,5 +1,0 @@
-com\vuelafacil\entidades\Ciudad.class
-com\vuelafacil\repositorios\ICiudadRepository.class
-com\vuelafacil\controladores\MainController.class
-com\vuelafacil\VuelafacilApplication.class
-com\vuelafacil\servicios\CiudadService.class
